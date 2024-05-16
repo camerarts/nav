@@ -82,7 +82,7 @@
           url: https://www.hifini.com/
 
 - taxonomy: 局域网
-  icon: fa-globe-pointer
+  icon: fa-ethernet
   list: 
     - term: 软件
       links: 
