@@ -30,8 +30,10 @@
       
 - taxonomy: 素材资源
   icon: fa-thumbs-up
-  links: 
-    - title: Github
+  list: 
+    - term: 软件
+      links: 
+      - title: Github
       url: https://github.com/
       
   
