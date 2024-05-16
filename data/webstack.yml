@@ -23,10 +23,17 @@
       url: https://www.smzdm.com
       
 - taxonomy: 云服务平台
+  icon: fa-thumbs-up
+  links: 
+    - title: Github
+      url: https://github.com/
+      
+- taxonomy: 素材资源
   icon: fa-cloud
   links: 
     - title: Github
       url: https://github.com/
+      
   
 - taxonomy: 网络资源
   icon: fa-download
