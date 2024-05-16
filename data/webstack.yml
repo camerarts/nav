@@ -84,10 +84,10 @@
   list: 
     - term: 软件
       links: 
-      - title: 群晖主页
-        url: https://192.168.50.50:5001
-      - title: 群晖文件管理
-        url: https://192.168.50.50:7001/
+       - title: 群晖主页
+         url: https://192.168.50.50:5001
+       - title: 群晖文件管理
+         url: https://192.168.50.50:7001/
       
     - term: 软件2
       links: 
