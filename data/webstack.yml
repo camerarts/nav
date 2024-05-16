@@ -7,15 +7,20 @@
       logo: images/logos/xxx.png
       qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
       description: 在线跨屏剪切文字
+      
     - title: 草料二维码
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url
       description: 在线二维码生成工具
+      
     - title: 在线文件传输
       url: https://musetransfer.com/
+      
     - title: 基计划
       url: https://www.glpomelo.cn/jizhongbao.html
-
+      
+    - title: 什么值得吗
+      url: https://www.smzdm.com/
 - taxonomy: 云服务平台
   icon: fa-cloud
   links: 
