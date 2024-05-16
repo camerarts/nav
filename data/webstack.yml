@@ -81,6 +81,21 @@
         - title: 音乐磁场
           url: https://www.hifini.com/
 
+- taxonomy: 局域网
+  icon: fa-globe-pointer
+  list: 
+    - term: 软件
+      links: 
+      - title: 群晖主页
+      url: https://192.168.50.50:5001
+      - title: 群晖文件管理
+      url: https://192.168.50.50:7001/
+      
+    - term: 软件2
+      links: 
+      - title: Github2
+      url: https://github.com/
+
 - taxonomy: 友情链接
   icon: fa-link
   friend:
