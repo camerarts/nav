@@ -50,6 +50,11 @@
         - title: 阿里小站
           url: https://pan666.cn
           description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
+        - title: Youtube
+          url: https://www.youtube.com/
+          description: 全球最大的学习分享平台
+
+          
     - term: 字幕
       links:
         - title: 字幕库
