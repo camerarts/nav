@@ -51,9 +51,9 @@
           description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
     - term: 游戏
       links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+        - title: github
+          url: https://github.com/
+          description: 全球最大的代码网站
           
 - taxonomy: 影视影音
   icon: fa-video-camera
