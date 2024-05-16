@@ -82,16 +82,16 @@
 - taxonomy: 局域网
   icon: fa-ethernet
   list: 
-    - term: 软件
+    - term: 软件3
       links: 
        - title: 群晖主页
          url: https://192.168.50.50:5001
        - title: 群晖文件管理
          url: https://192.168.50.50:7001/
       
-    - term: 软件2
+    - term: 软件4
       links: 
-       - title: Github2
+       - title: Github4
          url: https://github.com/
 
 - taxonomy: 友情链接
