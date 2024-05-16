@@ -35,7 +35,11 @@
       links: 
       - title: Github
       url: https://github.com/
-      
+    - term: 软件
+      links: 
+      - title: Github
+      url: https://github.com/
+       
   
 - taxonomy: 网络资源
   icon: fa-download
