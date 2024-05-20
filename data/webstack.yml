@@ -44,7 +44,7 @@
       url: https://github.com/
 
 - taxonomy: Google
-  icon: fa-thumbs-up
+  icon: fa-google
   links: 
     - title: Gmail
       url: https://mail.google.com/
