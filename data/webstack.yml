@@ -45,15 +45,12 @@
 
 - taxonomy: Google
   icon: fa-thumbs-up
-  list: 
-    - term: 软件
-      links: 
-      - title: Github
-      url: https://github.com/
-    - term: 软件2
-      links: 
-      - title: Github2
-      url: https://github.com/
+  links: 
+    - title: Gmail
+      url: https://mail.google.com/
+      
+    - title: 谷歌翻译
+      url: https://translate.google.com/
   
 - taxonomy: 网络资源
   icon: fa-download
