@@ -69,7 +69,7 @@
 - taxonomy: 影视影音
   icon: fa-video-camera
   list: 
-    - term:    影视
+    - term:    影视1
       links:
         - title: 阿里小站
           url: https://pan666.cn
