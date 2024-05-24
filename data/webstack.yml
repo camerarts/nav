@@ -32,7 +32,7 @@
       url: https://github.com/
 
 - taxonomy: Google
-  icon: fa-google
+  icon: fa-star
   links: 
     - title: Gmail
       url: https://mail.google.com/
