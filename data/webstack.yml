@@ -30,6 +30,14 @@
   links: 
     - title: Github
       url: https://github.com/
+
+- taxonomy: Google
+  icon: fa-google-plus-g
+  links: 
+    - title: Gmail
+      url: https://mail.google.com/
+    - title: Google 翻译
+      url: https://translate.google.com/
       
 - taxonomy: 素材资源
   icon: fa-thumbs-up
